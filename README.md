@@ -39,3 +39,38 @@ First off, to those who receive these, thank you for your contribution to the Mi
 ![Layout](image.png)
 
 In the image above I have laid out my led, resistor, SAO connector, coin, and solder. These are the core components for the MCPA Challenge Coin. 
+
+![PCB Assembly Outline](image-2.png)
+
+In the image, there are 3 components to populate. 
+
+R1 - The 5 Ohm Resistor
+
+D1 - The LED (Which will be flipped)
+
+J1 - The SAO Connetor
+
+We will start by placing the LED on the PCB. place a small amount of solder on one of the pads for the LED marked D1 in the center of the coin. 
+
+![solderblob](image-3.png)
+
+![arrow](image-4.png)
+
+![position](image-5.png)
+
+To correctly position the LED, face the arrow toward the white line shown in the picture. Ensure the green arrow on the LED is flipped up signifying that it is upside down. I recommend using your tweezers while heating the solder bolb to secure the led to the coin. 
+
+![Led mounted](image-6.png)
+
+In the above picture, my led is reverse mounted and will work. Now follow the same procedure for the Resistor. If there is a marking, ensure the white lettering is face up. 
+
+![resistor](image-7.png)
+
+Lastly, the SAO connector. It is advised to put a little bit of solder on one of the 6 pads first then use tweezers to hold it in place while you use the solder iron to secure the one leg. After that, heat up the rest and fix them to the board. The "key" or one side with an opening should be facing up. It should look like this (except mine is upside down and was later flipped). 
+
+![legsolder](image-8.png)
+
+![connector](image-9.png)
+
+And that is it! You have successfully soldered your MCPA coin together. Place it on your badge and see if it lights up! Thank you for reading. 
+
