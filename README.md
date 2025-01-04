@@ -74,3 +74,4 @@ Lastly, the SAO connector. It is advised to put a little bit of solder on one of
 
 And that is it! You have successfully soldered your MCPA coin together. Place it on your badge and see if it lights up! Thank you for reading. 
 
+![Challenge Coins](image-1.png)
