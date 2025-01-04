@@ -8,5 +8,10 @@ First off, to those who receive these, thank you for your contribution to the Mi
 
 ## Parts and Equipment
 
+<u>A breakdown of equipment needed</u>: 
+1x Solder Iron
+12 inches minimum of Lead Free Solder
+1x Flux Tube
+
 
 
