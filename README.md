@@ -1,6 +1,6 @@
 # MCPA Challenge Coin Assembly Guide
 
-A how-to-guide for the MCPA Challenge Coin ([simple add on](https://hackaday.com/2019/03/20/introducing-the-shitty-add-on-v1-69bis-standard/))[simple add on] (SAO). 
+A how-to-guide for the MCPA Challenge Coin [simple add on](https://hackaday.com/2019/03/20/introducing-the-shitty-add-on-v1-69bis-standard/) (SAO). 
 
 ## Overview 
 
